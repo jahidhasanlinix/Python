@@ -1,0 +1,64 @@
+{
+    "folders": [
+		{
+			"path": "/home/jahid/Documents/Code JS"
+		},
+		{
+			"path": "/home/jahid/Desktop/HaIT LABS"
+		},
+		{
+			"path": "/home/jahid/Rust"
+		},
+		{
+			"path": "/home/jahid/linix-stmnode"
+		},
+		{
+			"path": "/home/jahid/linix-wallet"
+		},
+		{
+			"path": "/home/jahid/substrate"
+		},
+		{
+			"path": "/home/jahid/substrate-package"
+		},
+		{
+			"path": "/home/jahid/bcpy"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/jahid/thesis"
+		},
+		{
+			"path": "/home/jahid/constraint"
+		},
+		{
+			"path": "/home/jahid/shufflegadget"
+		},
+		{
+			"path": "/home/jahid/bulletproofs-main"
+		},
+		{
+			"path": "/home/jahid/msthesiscode"
+		},
+		{
+			"path": "/home/jahid/Downloads/cryptotools-master"
+		},
+		{
+			"path": "/home/jahid/FINALWORK"
+		},
+		{
+			"path": "/home/jahid/Bulletproof JS"
+		},
+		{
+			"path": "/home/jahid/Java"
+		},
+		{
+			"path": "/home/jahid/FINALWORK/bulletproof"
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
+}
